@@ -1,8 +1,7 @@
 <template>
-    <HelloWorld />
-  </template>
-  
-  <script lang="ts" setup>
-    //
-  </script>
-  
+  <HelloWorld />
+</template>
+
+<script lang="ts" setup>
+//
+</script>
